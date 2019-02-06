@@ -1,0 +1,6 @@
+Caso queira utilizar o sistema de armazenamento do S3ninja,
+basta startar o IPL.class via cmd com o comando "java IPL"
+e testar, por padrão defini no application.properties para
+que ele utilize o sistema de arquivos local para o 
+salvamento das fotos, mas está funcionando normalmente com
+o S3.
